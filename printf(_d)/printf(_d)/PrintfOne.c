@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int one(void)
 {
 	printf("Hello Everbody\n");
 	printf("%d\n", 1234);
