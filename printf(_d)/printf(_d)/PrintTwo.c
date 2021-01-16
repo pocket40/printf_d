@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int printTwo(void)
 {
 	printf("My age: %d \n", 20);
 	printf("%d is my point \n", 100);
